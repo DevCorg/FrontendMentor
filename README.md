@@ -23,7 +23,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click to preview](https://edward-product-preview-card.netlify.app/)
 
 ## My process
 
