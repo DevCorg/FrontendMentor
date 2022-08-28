@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Click to preview](https://qr-code-component-dun-eight.vercel.app/)
+- Live Site URL: [Click to preview](https://edward-qr-code-solution.netlify.app/)
 
 ## My process
 
